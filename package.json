@@ -1,5 +1,5 @@
 {
-  "name": "number-formatter",
+  "name": "number-f",
   "version": "1.0.0",
   "description": "This package used for number formatting",
   "main": "index.js",
