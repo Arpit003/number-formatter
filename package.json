@@ -1,0 +1,14 @@
+{
+  "name": "number-formatter",
+  "version": "1.0.0",
+  "description": "This package used for number formatting",
+  "main": "index.js",
+  "scripts": {
+    "test": "chai --reporter spec"
+  },
+  "author": "“arpit03” <“vyasarpit56@gmail.com”>",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0"
+  }
+}
