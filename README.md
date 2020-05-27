@@ -14,4 +14,4 @@ A small library that adds commas to numbers
     var number = NumberFormatter(50000);
   
   
-  Output should be `35,666`
+  Output should be `50,000`
